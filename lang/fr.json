@@ -45,6 +45,16 @@
       "GitURL": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets-ai",
       "DonationTitle": "Offre-moi un café",
       "DonationURL": "https://www.buymeacoffee.com/yank"
+    },
+    "Echo": {
+      "Dialog": {
+        "moduleActivatedContent": "Le module <strong>k4lt-assets-ai</strong> propose des portraits et des illustrations supplémentaires générés par IA pour <strong>Écho du Passé</strong>."
+      },
+      "Settings": {
+        "useAdditionalContentName": "Activer le contenu supplémentaire IA pour Écho du Passé",
+        "useAdditionalContentHint": "Activez cette option si vous souhaitez utiliser du contenu généré par IA pour enrichir le scénario Écho du Passé."
+      },
+      "Error": "Échec de la mise à jour des ressources IA d’Écho du Passé. Consultez la console."
     }
   }
 }

@@ -1,0 +1,3131 @@
+{
+  "scenario": "An Echo From the Past / Écho du Passé",
+  "auditDate": "2026-09-30",
+  "scope": "Métadonnées des compendiums installés ; aucun monde utilisateur inspecté ou modifié.",
+  "counts": {
+    "sourceImages": 46,
+    "portraits": 39,
+    "scenes": 7
+  },
+  "documents": {
+    "en": {
+      "adventureId": "WBvEoswkh5PscCHS",
+      "name": "An Echo From the Past",
+      "pack": "k4lt-en.official-scenarios",
+      "actors": [
+        {
+          "id": "fihdK4m72HhTZ9D4",
+          "name": "Anders Holmström",
+          "type": "npc",
+          "folder": "J6p1okO8iyBq1eNd",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "Qt4yseOng3PLoaqY",
+          "name": "Emanuel Zeferarim",
+          "type": "npc",
+          "folder": "J6p1okO8iyBq1eNd",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "MNtnupBRJKnmfljq",
+          "name": "Eva Dacziewic",
+          "type": "npc",
+          "folder": "J6p1okO8iyBq1eNd",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Fallen Angels",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp"
+        },
+        {
+          "id": "wPjtg2UDP6YMsHJb",
+          "name": "Jim Morrison",
+          "type": "npc",
+          "folder": "QxwbMZBhXTmYozDe",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp"
+        },
+        {
+          "id": "S4eHRz1n6WcxBVBu",
+          "name": "Johan Barnemark",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "Ve6ZW7AfmsZBGGrD",
+          "name": "Lena Barsk",
+          "type": "npc",
+          "folder": "J6p1okO8iyBq1eNd",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "yCaBsZVCWjapyKvM",
+          "name": "Leonora Albrektsson",
+          "type": "npc",
+          "folder": "J6p1okO8iyBq1eNd",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "L3JfsmKVyreeaDKr",
+          "name": "Lukas LeGardie",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "DHW5oi0V9jb0xWFJ",
+          "name": "Marcus Fredlid",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "0gN1iDbv6UoomCUx",
+          "name": "Mats Qvarnheden",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "KRvui1Hxdj6jd6Oj",
+          "name": "Michel Agnel",
+          "type": "npc",
+          "folder": "QxwbMZBhXTmYozDe",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp"
+        },
+        {
+          "id": "fpV29POTkxMN19SI",
+          "name": "Padre Louis",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp"
+        },
+        {
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Police Officers",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Security Personnel",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "BMc5SuhQGkrgpYKp",
+          "name": "The Dark Messiah",
+          "type": "npc",
+          "folder": "QxwbMZBhXTmYozDe",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp"
+        },
+        {
+          "id": "oFzzQ0niZ5NpUFM1",
+          "name": "The Four Mounts",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "DCb1augIfxz8s0BN",
+          "name": "The Pope",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        }
+      ],
+      "scenes": [
+        {
+          "id": "4JFvtkKVHQgq9s0r",
+          "name": "Scene 1 · Stockholm Subway",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S01-stockholm-metro.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "z7FkO4jMyPdiFsKc",
+          "name": "Scene 2 · Stockholm Cathedral",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S02-stockholm-cathedral.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "o7X01IaRYwqWHPWa",
+          "name": "Scene 3 · Jim Morrison’s Grave",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S03-pere-lachaise.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "DJoqu3UOo0hs8wOi",
+          "name": "Scene 4 · Jim’s Apartment",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S04-paris-apartment.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "noVgB9jHfuzgFIOa",
+          "name": "Scene 5 · The Roman Forum",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S05-forum-romanum.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "msySVzRmhErcVdrg",
+          "name": "Scene 6 · The Cistern",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S06-piscina-mirabilis.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "cOHjnkTRYO9PD54q",
+          "name": "Scene 7 · St. Peter’s Basilica",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S07-saint-peters-basilica.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        }
+      ],
+      "journals": [
+        {
+          "id": "OZNDSZzcO31gVrKl",
+          "name": "Player Characters & Handouts",
+          "pages": [
+            {
+              "id": "ogDZgHeuhmlV2J9m",
+              "name": "Player Characters",
+              "type": "text"
+            },
+            {
+              "id": "hYSaJdaCzNb3WvRb",
+              "name": "First Seal",
+              "type": "text"
+            },
+            {
+              "id": "ReklpHDjWItlL7n9",
+              "name": "Second Seal",
+              "type": "text"
+            },
+            {
+              "id": "KiA0nJ8ErOUQMfS8",
+              "name": "Third Seal",
+              "type": "text"
+            },
+            {
+              "id": "qsx7Jl8qllsrY4OQ",
+              "name": "Fourth Seal",
+              "type": "text"
+            },
+            {
+              "id": "7LfCIAHQ6XWhx49P",
+              "name": "Fifth Seal",
+              "type": "text"
+            },
+            {
+              "id": "1gngtFcL2NUy6u78",
+              "name": "Sixth Seal",
+              "type": "text"
+            },
+            {
+              "id": "fe8FLXSPueVqd05E",
+              "name": "Seventh Seal",
+              "type": "text"
+            },
+            {
+              "id": "l6Zo5DgsSEGEm9IM",
+              "name": "PC Advantages and Abilities",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "UyfDK68W9EAIjzIi",
+          "name": "Memos",
+          "pages": [
+            {
+              "id": "f3FZZ1zCWurYv5Np",
+              "name": "Memo 1",
+              "type": "text"
+            },
+            {
+              "id": "vW07vINu4x3QxOHJ",
+              "name": "Memo 2 · Johan",
+              "type": "text"
+            },
+            {
+              "id": "pMMQH4qvXip8jQS0",
+              "name": "Memo 2 · Lukas",
+              "type": "text"
+            },
+            {
+              "id": "QEX7MqgOYYGK2zDi",
+              "name": "Memo 2 · Mats",
+              "type": "text"
+            },
+            {
+              "id": "6uPLCgaOV82dQrAs",
+              "name": "Memo 2 · Marcus",
+              "type": "text"
+            },
+            {
+              "id": "bMecIb8druHCwhRW",
+              "name": "Memo 3",
+              "type": "text"
+            },
+            {
+              "id": "cajJzqpdoTqlN94L",
+              "name": "Memo 4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "hRAYBLG4JlQY7koo",
+          "name": "Credits & Source",
+          "pages": [
+            {
+              "id": "48t1iUdzdPp1hpMW",
+              "name": "Credits",
+              "type": "text"
+            },
+            {
+              "id": "u4kGzPEruGuaq7D6",
+              "name": "Source PDF",
+              "type": "pdf"
+            },
+            {
+              "id": "7YJ8UpBLqtpnnbyO",
+              "name": "Content Warning",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "upwo7BTNNklNx7lT",
+          "name": "Scenario",
+          "pages": [
+            {
+              "id": "JhDGNnCIQPM1QWxG",
+              "name": "Introduction",
+              "type": "text"
+            },
+            {
+              "id": "N1W0Nufi41oBkzkP",
+              "name": "Background",
+              "type": "text"
+            },
+            {
+              "id": "iUJg45TGTAMo3W6O",
+              "name": "Timeline",
+              "type": "text"
+            },
+            {
+              "id": "OQ3hiXzHuPoJN0gW",
+              "name": "Episode Division & Summary",
+              "type": "text"
+            },
+            {
+              "id": "ctSPqfONWWCYUOnO",
+              "name": "The First Episode",
+              "type": "text"
+            },
+            {
+              "id": "yXbmRznyzDeXRRa5",
+              "name": "The Second Episode",
+              "type": "text"
+            },
+            {
+              "id": "95D8fzqmPR9eBvjf",
+              "name": "The Third Episode",
+              "type": "text"
+            },
+            {
+              "id": "pj8KyxBI3bM4XNLO",
+              "name": "The Fourth Episode",
+              "type": "text"
+            },
+            {
+              "id": "Ql7sCxk8AKm7txRD",
+              "name": "The Fifth Episode",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "wrWE7bBDgqBMhfBZ",
+          "name": "Non-Player Characters",
+          "pages": [
+            {
+              "id": "MLSONTUkA6SdWm0c",
+              "name": "Padre Louis",
+              "type": "text"
+            },
+            {
+              "id": "CPobXXXQyk8iYiLn",
+              "name": "Fallen Angels",
+              "type": "text"
+            },
+            {
+              "id": "MYPB8RroKmMT3tFS",
+              "name": "Security Personnel",
+              "type": "text"
+            },
+            {
+              "id": "j7ulgZcWvtLsMfrX",
+              "name": "Police Officers",
+              "type": "text"
+            },
+            {
+              "id": "py6zfaw5AKOcSH9F",
+              "name": "The Pope",
+              "type": "text"
+            },
+            {
+              "id": "epCJJm4NJdGeQiZt",
+              "name": "The Four Mounts",
+              "type": "text"
+            },
+            {
+              "id": "Q72yQUNWhh4Z66VD",
+              "name": "Michel Agneau / Jim Morrison / The Dark Messiah",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "adventureId": "uYX4vmSNkiR8lccN",
+      "name": "Écho du Passé",
+      "pack": "k4lt-fr.scenarios-officiels",
+      "actors": [
+        {
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Agents de sécurité",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "LvVWUgmk14MaCdBC",
+          "name": "Anders Holmström",
+          "type": "npc",
+          "folder": "u8Jg7NjPxF87YwcJ",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Anges déchus",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp"
+        },
+        {
+          "id": "OhwIqd1ki7hj6m91",
+          "name": "Emanuel Zeferarim",
+          "type": "npc",
+          "folder": "u8Jg7NjPxF87YwcJ",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "t24OC19ubncQ4Wmk",
+          "name": "Eva Dacziewic",
+          "type": "npc",
+          "folder": "u8Jg7NjPxF87YwcJ",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "BOYyyegxsd0CTJKT",
+          "name": "Jim Morrison",
+          "type": "npc",
+          "folder": "af843bN60SPfX7gR",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp"
+        },
+        {
+          "id": "S4eHRz1n6WcxBVBu",
+          "name": "Johan Barnemark",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "BMc5SuhQGkrgpYKp",
+          "name": "Le Noir Messie",
+          "type": "npc",
+          "folder": "af843bN60SPfX7gR",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp"
+        },
+        {
+          "id": "DCb1augIfxz8s0BN",
+          "name": "Le Pape",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "388Bw0tOmaghdk3Z",
+          "name": "Lena Barsk",
+          "type": "npc",
+          "folder": "u8Jg7NjPxF87YwcJ",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "wkfFyGmkbT5Vf2qD",
+          "name": "Leonora Albrektsson",
+          "type": "npc",
+          "folder": "u8Jg7NjPxF87YwcJ",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "oFzzQ0niZ5NpUFM1",
+          "name": "Les quatre montures",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "L3JfsmKVyreeaDKr",
+          "name": "Lukas LeGardie",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "DHW5oi0V9jb0xWFJ",
+          "name": "Marcus Fredlid",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "0gN1iDbv6UoomCUx",
+          "name": "Mats Qvarnheden",
+          "type": "pc",
+          "folder": "uuWV0Zmyw0C7QD8m",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "QvhN51zXYa8er0wC",
+          "name": "Michel Agnel",
+          "type": "npc",
+          "folder": "af843bN60SPfX7gR",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp"
+        },
+        {
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Policiers",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "icons/svg/mystery-man.svg",
+          "prototypeToken": "icons/svg/mystery-man.svg"
+        },
+        {
+          "id": "fpV29POTkxMN19SI",
+          "name": "Père Louis",
+          "type": "npc",
+          "folder": "ZYwWKuY6fWtCiG1H",
+          "portrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "prototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp"
+        }
+      ],
+      "scenes": [
+        {
+          "id": "4JFvtkKVHQgq9s0r",
+          "name": "Scène 1 · Le métro de Stockholm",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S01-stockholm-metro.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "z7FkO4jMyPdiFsKc",
+          "name": "Scène 2 · La cathédrale de Stockholm",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S02-stockholm-cathedral.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "o7X01IaRYwqWHPWa",
+          "name": "Scène 3 · La tombe de Jim Morrison",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S03-pere-lachaise.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "DJoqu3UOo0hs8wOi",
+          "name": "Scène 4 · L’appartement de Jim",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S04-paris-apartment.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "noVgB9jHfuzgFIOa",
+          "name": "Scène 5 · Le Forum romain",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S05-forum-romanum.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "msySVzRmhErcVdrg",
+          "name": "Scène 6 · La citerne",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S06-piscina-mirabilis.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        },
+        {
+          "id": "cOHjnkTRYO9PD54q",
+          "name": "Scène 7 · La basilique Saint-Pierre",
+          "width": 3840,
+          "height": 2160,
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "image": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S07-saint-peters-basilica.webp",
+              "textures": {
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "offsetX": 0,
+                "offsetY": 0,
+                "fit": "fill",
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotation": 0
+              }
+            }
+          ],
+          "tokens": []
+        }
+      ],
+      "journals": [
+        {
+          "id": "OZNDSZzcO31gVrKl",
+          "name": "Personnages Joueurs & Aides de jeu",
+          "pages": [
+            {
+              "id": "ogDZgHeuhmlV2J9m",
+              "name": "Personnages joueurs",
+              "type": "text"
+            },
+            {
+              "id": "hYSaJdaCzNb3WvRb",
+              "name": "Premier sceau",
+              "type": "text"
+            },
+            {
+              "id": "ReklpHDjWItlL7n9",
+              "name": "Deuxième sceau",
+              "type": "text"
+            },
+            {
+              "id": "KiA0nJ8ErOUQMfS8",
+              "name": "Troisième sceau",
+              "type": "text"
+            },
+            {
+              "id": "qsx7Jl8qllsrY4OQ",
+              "name": "Quatrième sceau",
+              "type": "text"
+            },
+            {
+              "id": "7LfCIAHQ6XWhx49P",
+              "name": "Cinquième sceau",
+              "type": "text"
+            },
+            {
+              "id": "1gngtFcL2NUy6u78",
+              "name": "Sixième sceau",
+              "type": "text"
+            },
+            {
+              "id": "fe8FLXSPueVqd05E",
+              "name": "Septième sceau",
+              "type": "text"
+            },
+            {
+              "id": "l6Zo5DgsSEGEm9IM",
+              "name": "Avantages et capacités des PJ",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "UyfDK68W9EAIjzIi",
+          "name": "Mémos",
+          "pages": [
+            {
+              "id": "f3FZZ1zCWurYv5Np",
+              "name": "Mémo 1",
+              "type": "text"
+            },
+            {
+              "id": "vW07vINu4x3QxOHJ",
+              "name": "Mémo 2 · Johan",
+              "type": "text"
+            },
+            {
+              "id": "pMMQH4qvXip8jQS0",
+              "name": "Mémo 3",
+              "type": "text"
+            },
+            {
+              "id": "QEX7MqgOYYGK2zDi",
+              "name": "Mémo 4",
+              "type": "text"
+            },
+            {
+              "id": "6uPLCgaOV82dQrAs",
+              "name": "Mémo 2 · Lukas",
+              "type": "text"
+            },
+            {
+              "id": "bMecIb8druHCwhRW",
+              "name": "Mémo 2 · Mats",
+              "type": "text"
+            },
+            {
+              "id": "cajJzqpdoTqlN94L",
+              "name": "Mémo 2 · Marcus",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "hRAYBLG4JlQY7koo",
+          "name": "Crédits & Source",
+          "pages": [
+            {
+              "id": "48t1iUdzdPp1hpMW",
+              "name": "Crédits",
+              "type": "text"
+            },
+            {
+              "id": "u4kGzPEruGuaq7D6",
+              "name": "Source PDF",
+              "type": "pdf"
+            },
+            {
+              "id": "7YJ8UpBLqtpnnbyO",
+              "name": "Avertissement de contenu",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "upwo7BTNNklNx7lT",
+          "name": "Scénario",
+          "pages": [
+            {
+              "id": "JhDGNnCIQPM1QWxG",
+              "name": "Introduction",
+              "type": "text"
+            },
+            {
+              "id": "N1W0Nufi41oBkzkP",
+              "name": "Toile de fond",
+              "type": "text"
+            },
+            {
+              "id": "iUJg45TGTAMo3W6O",
+              "name": "Chronologie",
+              "type": "text"
+            },
+            {
+              "id": "OQ3hiXzHuPoJN0gW",
+              "name": "Division en épisodes & Résumé",
+              "type": "text"
+            },
+            {
+              "id": "ctSPqfONWWCYUOnO",
+              "name": "Premier épisode",
+              "type": "text"
+            },
+            {
+              "id": "yXbmRznyzDeXRRa5",
+              "name": "Deuxième épisode",
+              "type": "text"
+            },
+            {
+              "id": "95D8fzqmPR9eBvjf",
+              "name": "Troisième épisode",
+              "type": "text"
+            },
+            {
+              "id": "pj8KyxBI3bM4XNLO",
+              "name": "Quatrième épisode",
+              "type": "text"
+            },
+            {
+              "id": "Ql7sCxk8AKm7txRD",
+              "name": "Cinquième épisode",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "id": "wrWE7bBDgqBMhfBZ",
+          "name": "Personnages Non Joueurs",
+          "pages": [
+            {
+              "id": "MLSONTUkA6SdWm0c",
+              "name": "Père Louis",
+              "type": "text"
+            },
+            {
+              "id": "CPobXXXQyk8iYiLn",
+              "name": "Anges déchus",
+              "type": "text"
+            },
+            {
+              "id": "MYPB8RroKmMT3tFS",
+              "name": "Agents de sécurité",
+              "type": "text"
+            },
+            {
+              "id": "j7ulgZcWvtLsMfrX",
+              "name": "Policiers",
+              "type": "text"
+            },
+            {
+              "id": "py6zfaw5AKOcSH9F",
+              "name": "Le Pape",
+              "type": "text"
+            },
+            {
+              "id": "epCJJm4NJdGeQiZt",
+              "name": "Les quatre montures",
+              "type": "text"
+            },
+            {
+              "id": "Q72yQUNWhh4Z66VD",
+              "name": "Michel Agnel / Jim Morrison / Le Noir Messie",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "assets": [
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1838751,
+      "file": "Anders Holmström.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "fihdK4m72HhTZ9D4",
+          "name": "Anders Holmström",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "LvVWUgmk14MaCdBC",
+          "name": "Anders Holmström",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/anders-holmstrom.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/anders-holmstrom.webp",
+        "bytes": 275118,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1991160,
+      "file": "Cardinal Adolfo Montserrat - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Adolfo Montserrat",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scenario",
+            "pageId": "yXbmRznyzDeXRRa5",
+            "pageName": "The Second Episode"
+          }
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Adolfo Montserrat",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scénario",
+            "pageId": "yXbmRznyzDeXRRa5",
+            "pageName": "Deuxième épisode"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Adolfo Montserrat.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-adolfo-montserrat-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-adolfo-montserrat-rf.webp",
+        "bytes": 257954,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1670697,
+      "file": "Cardinal Adolfo Montserrat.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Adolfo Montserrat",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scenario",
+            "pageId": "yXbmRznyzDeXRRa5",
+            "pageName": "The Second Episode"
+          }
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Adolfo Montserrat",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scénario",
+            "pageId": "yXbmRznyzDeXRRa5",
+            "pageName": "Deuxième épisode"
+          }
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor ; illustrer son passage de journal par l’apparence humaine à côté de la forme réelle. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Adolfo Montserrat - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-adolfo-montserrat.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-adolfo-montserrat.webp",
+        "bytes": 177182,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1591269,
+      "file": "Cardinal Armando Asapandreous - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Armando Asapandreous"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Armando Asapandreous"
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Armando Asapandreous.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-armando-asapandreous-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-armando-asapandreous-rf.webp",
+        "bytes": 200644,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1777675,
+      "file": "Cardinal Armando Asapandreous.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Armando Asapandreous"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Armando Asapandreous"
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor ; illustrer son passage de journal par l’apparence humaine à côté de la forme réelle. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Armando Asapandreous - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-armando-asapandreous.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-armando-asapandreous.webp",
+        "bytes": 202864,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1763829,
+      "file": "Cardinal Fernando Pizariola - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Fernando Pizariola"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Fernando Pizariola"
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Fernando Pizariola.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-fernando-pizariola-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-fernando-pizariola-rf.webp",
+        "bytes": 215718,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1722470,
+      "file": "Cardinal Fernando Pizariola.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Fernando Pizariola"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Fernando Pizariola"
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor ; illustrer son passage de journal par l’apparence humaine à côté de la forme réelle. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Fernando Pizariola - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-fernando-pizariola.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-fernando-pizariola.webp",
+        "bytes": 200252,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1661666,
+      "file": "Cardinal Liguro Ezmect - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Liguro Ezmect"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Liguro Ezmect"
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Liguro Ezmect.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-liguro-ezmect-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-liguro-ezmect-rf.webp",
+        "bytes": 236882,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1527439,
+      "file": "Cardinal Liguro Ezmect.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Liguro Ezmect"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Liguro Ezmect"
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor ; illustrer son passage de journal par l’apparence humaine à côté de la forme réelle. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Liguro Ezmect - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-liguro-ezmect.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-liguro-ezmect.webp",
+        "bytes": 200830,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1661538,
+      "file": "Cardinal Michail Doprecsi - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Michail Doprecsi",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scenario",
+            "pageId": "95D8fzqmPR9eBvjf",
+            "pageName": "The Third Episode"
+          }
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Michail Doprecsi",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scénario",
+            "pageId": "95D8fzqmPR9eBvjf",
+            "pageName": "Troisième épisode"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Michail Doprecsi.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-michail-doprecsi-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-michail-doprecsi-rf.webp",
+        "bytes": 208520,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1638127,
+      "file": "Cardinal Michail Doprecsi.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Michail Doprecsi",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scenario",
+            "pageId": "95D8fzqmPR9eBvjf",
+            "pageName": "The Third Episode"
+          }
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Michail Doprecsi",
+          "additionalNarrativePage": {
+            "journalId": "upwo7BTNNklNx7lT",
+            "journalName": "Scénario",
+            "pageId": "95D8fzqmPR9eBvjf",
+            "pageName": "Troisième épisode"
+          }
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor ; illustrer son passage de journal par l’apparence humaine à côté de la forme réelle. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Michail Doprecsi - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-michail-doprecsi.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-michail-doprecsi.webp",
+        "bytes": 192078,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1951604,
+      "file": "Cardinal Rico Armando - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Rico Armando"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Rico Armando"
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Rico Armando.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-rico-armando-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-rico-armando-rf.webp",
+        "bytes": 266136,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1635112,
+      "file": "Cardinal Rico Armando.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Timeline",
+          "subject": "Cardinal Rico Armando"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "iUJg45TGTAMo3W6O",
+          "pageName": "Chronologie",
+          "subject": "Cardinal Rico Armando"
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor ; illustrer son passage de journal par l’apparence humaine à côté de la forme réelle. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Cardinal Rico Armando - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/cardinal-rico-armando.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-rico-armando.webp",
+        "bytes": 199266,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1811123,
+      "file": "Dark Messiah.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "BMc5SuhQGkrgpYKp",
+          "name": "The Dark Messiah",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agneau / Jim Morrison / The Dark Messiah"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "BMc5SuhQGkrgpYKp",
+          "name": "Le Noir Messie",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agnel / Jim Morrison / Le Noir Messie"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/dark-messiah.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/dark-messiah.webp",
+        "bytes": 237346,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2054964,
+      "file": "Emanuel Zeferarim.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "Qt4yseOng3PLoaqY",
+          "name": "Emanuel Zeferarim",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "OhwIqd1ki7hj6m91",
+          "name": "Emanuel Zeferarim",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/emanuel-zeferarim.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/emanuel-zeferarim.webp",
+        "bytes": 369466,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1868260,
+      "file": "Eva Dacziewic.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "MNtnupBRJKnmfljq",
+          "name": "Eva Dacziewic",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "t24OC19ubncQ4Wmk",
+          "name": "Eva Dacziewic",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/eva-dacziewic.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/eva-dacziewic.webp",
+        "bytes": 264160,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2019683,
+      "file": "Fallen Angels 2.png",
+      "category": "portrait",
+      "variant": "variante 2",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Fallen Angels",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Fallen Angels"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Anges déchus",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Anges déchus"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Même fiche générique ; variante à proposer au MJ. Aucun token placé dans les scènes du compendium pour une attribution individuelle.",
+      "preparedAsset": {
+        "path": "portraits/fallen-angels-2.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels-2.webp",
+        "bytes": 356236,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1995422,
+      "file": "Fallen Angels 3.png",
+      "category": "portrait",
+      "variant": "variante 3",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Fallen Angels",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Fallen Angels"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Anges déchus",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Anges déchus"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Même fiche générique ; variante à proposer au MJ. Aucun token placé dans les scènes du compendium pour une attribution individuelle.",
+      "preparedAsset": {
+        "path": "portraits/fallen-angels-3.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels-3.webp",
+        "bytes": 322596,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1802001,
+      "file": "Fallen Angels.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Fallen Angels",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Fallen Angels"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Anges déchus",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Anges déchus"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/fallen-angels.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels.webp",
+        "bytes": 253486,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2273577,
+      "file": "Four Mounts.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "oFzzQ0niZ5NpUFM1",
+          "name": "The Four Mounts",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "epCJJm4NJdGeQiZt",
+            "pageName": "The Four Mounts"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "oFzzQ0niZ5NpUFM1",
+          "name": "Les quatre montures",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "epCJJm4NJdGeQiZt",
+            "pageName": "Les quatre montures"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/four-mounts.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/four-mounts.webp",
+        "bytes": 563316,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1808364,
+      "file": "Fredrico.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scenario",
+          "pageId": "pj8KyxBI3bM4XNLO",
+          "pageName": "The Fourth Episode",
+          "subject": "Fredrico"
+        },
+        "fr": {
+          "documentType": "JournalEntryPage",
+          "journalId": "upwo7BTNNklNx7lT",
+          "journalName": "Scénario",
+          "pageId": "pj8KyxBI3bM4XNLO",
+          "pageName": "Quatrième épisode",
+          "subject": "Fredrico"
+        }
+      },
+      "status": "journal_only",
+      "note": "Personnage cité dans le scénario, sans fiche Actor. Proposition : galerie additionnelle ; ne pas inventer de caractéristiques.",
+      "preparedAsset": {
+        "path": "portraits/fredrico.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fredrico.webp",
+        "bytes": 267900,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2116924,
+      "file": "Jim Morrison.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "wPjtg2UDP6YMsHJb",
+          "name": "Jim Morrison",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agneau / Jim Morrison / The Dark Messiah"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "BOYyyegxsd0CTJKT",
+          "name": "Jim Morrison",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agnel / Jim Morrison / Le Noir Messie"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/jim-morrison.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/jim-morrison.webp",
+        "bytes": 332436,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1642080,
+      "file": "Johan Barnemark.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "S4eHRz1n6WcxBVBu",
+          "name": "Johan Barnemark",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "S4eHRz1n6WcxBVBu",
+          "name": "Johan Barnemark",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/johan-barnemark.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/johan-barnemark.webp",
+        "bytes": 228970,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2025680,
+      "file": "Lena Barsk.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "Ve6ZW7AfmsZBGGrD",
+          "name": "Lena Barsk",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "388Bw0tOmaghdk3Z",
+          "name": "Lena Barsk",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/lena-barsk.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lena-barsk.webp",
+        "bytes": 337730,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1925843,
+      "file": "Leonora Albrektsson.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "yCaBsZVCWjapyKvM",
+          "name": "Leonora Albrektsson",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "wkfFyGmkbT5Vf2qD",
+          "name": "Leonora Albrektsson",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/leonora-albrektsson.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/leonora-albrektsson.webp",
+        "bytes": 234454,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1633928,
+      "file": "Lukas LeGardie.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "L3JfsmKVyreeaDKr",
+          "name": "Lukas LeGardie",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "L3JfsmKVyreeaDKr",
+          "name": "Lukas LeGardie",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "Erreur de nommage confirmée par l’auteur ; source renommée en Lukas LeGardie.png.",
+      "preparedAsset": {
+        "path": "portraits/lukas-legardie.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lukas-legardie.webp",
+        "bytes": 209792,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1893883,
+      "file": "Marcus Fredlid.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "DHW5oi0V9jb0xWFJ",
+          "name": "Marcus Fredlid",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "DHW5oi0V9jb0xWFJ",
+          "name": "Marcus Fredlid",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/marcus-fredlid.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/marcus-fredlid.webp",
+        "bytes": 285934,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1735603,
+      "file": "Mats Qvarnheden.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "0gN1iDbv6UoomCUx",
+          "name": "Mats Qvarnheden",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "0gN1iDbv6UoomCUx",
+          "name": "Mats Qvarnheden",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg"
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/mats-qvarnheden.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/mats-qvarnheden.webp",
+        "bytes": 244246,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1861393,
+      "file": "Michel Agneau.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "KRvui1Hxdj6jd6Oj",
+          "name": "Michel Agnel",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agneau / Jim Morrison / The Dark Messiah"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "QvhN51zXYa8er0wC",
+          "name": "Michel Agnel",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agnel / Jim Morrison / Le Noir Messie"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Agneau dans le nom source ; Agnel dans les deux fiches. Même identité narrative, noms à traiter explicitement.",
+      "preparedAsset": {
+        "path": "portraits/michel-agnel.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/michel-agnel.webp",
+        "bytes": 296932,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2260349,
+      "file": "Padre Louis Chavaral - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "fpV29POTkxMN19SI",
+          "name": "Padre Louis",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MLSONTUkA6SdWm0c",
+            "pageName": "Padre Louis"
+          },
+          "usage": "journal illustration"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "fpV29POTkxMN19SI",
+          "name": "Père Louis",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MLSONTUkA6SdWm0c",
+            "pageName": "Père Louis"
+          },
+          "usage": "journal illustration"
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Padre Louis Chavaral.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/padre-louis-chavaral-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral-rf.webp",
+        "bytes": 350946,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1724651,
+      "file": "Padre Louis Chavaral.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "fpV29POTkxMN19SI",
+          "name": "Padre Louis",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MLSONTUkA6SdWm0c",
+            "pageName": "Padre Louis"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "fpV29POTkxMN19SI",
+          "name": "Père Louis",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MLSONTUkA6SdWm0c",
+            "pageName": "Père Louis"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Padre Louis Chavaral - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/padre-louis-chavaral.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral.webp",
+        "bytes": 208646,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1716353,
+      "file": "police officer 2.png",
+      "category": "portrait",
+      "variant": "variante 2",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Police Officers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Police Officers"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Policiers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Policiers"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Même fiche générique ; variante à proposer au MJ. Aucun token placé dans les scènes du compendium pour une attribution individuelle.",
+      "preparedAsset": {
+        "path": "portraits/police-officer-2.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer-2.webp",
+        "bytes": 222116,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1627832,
+      "file": "police officer 3.png",
+      "category": "portrait",
+      "variant": "variante 3",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Police Officers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Police Officers"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Policiers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Policiers"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Même fiche générique ; variante à proposer au MJ. Aucun token placé dans les scènes du compendium pour une attribution individuelle.",
+      "preparedAsset": {
+        "path": "portraits/police-officer-3.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer-3.webp",
+        "bytes": 218184,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1958952,
+      "file": "police officer.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Police Officers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Police Officers"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Policiers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Policiers"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/police-officer.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer.webp",
+        "bytes": 295888,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2430442,
+      "file": "Pope - RF.png",
+      "category": "portrait",
+      "variant": "forme réelle (RF)",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "DCb1augIfxz8s0BN",
+          "name": "The Pope",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "py6zfaw5AKOcSH9F",
+            "pageName": "The Pope"
+          },
+          "usage": "journal illustration"
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "DCb1augIfxz8s0BN",
+          "name": "Le Pape",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "py6zfaw5AKOcSH9F",
+            "pageName": "Le Pape"
+          },
+          "usage": "journal illustration"
+        }
+      },
+      "status": "identified",
+      "note": "Forme réelle confirmée par l’auteur ; à placer à côté de l’apparence humaine dans les journaux EN/FR. Galerie possible.",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Pope.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/pope-rf.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope-rf.webp",
+        "bytes": 390398,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1830743,
+      "file": "Pope.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "DCb1augIfxz8s0BN",
+          "name": "The Pope",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "py6zfaw5AKOcSH9F",
+            "pageName": "The Pope"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "DCb1augIfxz8s0BN",
+          "name": "Le Pape",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "py6zfaw5AKOcSH9F",
+            "pageName": "Le Pape"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "journalPresentation": {
+        "layout": "side-by-side",
+        "pairedSource": "Pope - RF.png",
+        "gallery": "optional"
+      },
+      "preparedAsset": {
+        "path": "portraits/pope.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope.webp",
+        "bytes": 207460,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2199157,
+      "file": "scene 1.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "4JFvtkKVHQgq9s0r",
+          "name": "Scene 1 · Stockholm Subway",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S01-stockholm-metro.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "4JFvtkKVHQgq9s0r",
+          "name": "Scène 1 · Le métro de Stockholm",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S01-stockholm-metro.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s01-stockholm-metro.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s01-stockholm-metro.webp",
+        "bytes": 189688,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 1991302,
+      "file": "scene 2.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "z7FkO4jMyPdiFsKc",
+          "name": "Scene 2 · Stockholm Cathedral",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S02-stockholm-cathedral.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "z7FkO4jMyPdiFsKc",
+          "name": "Scène 2 · La cathédrale de Stockholm",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S02-stockholm-cathedral.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s02-stockholm-cathedral.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s02-stockholm-cathedral.webp",
+        "bytes": 178036,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2704068,
+      "file": "scene 3.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "o7X01IaRYwqWHPWa",
+          "name": "Scene 3 · Jim Morrison’s Grave",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S03-pere-lachaise.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "o7X01IaRYwqWHPWa",
+          "name": "Scène 3 · La tombe de Jim Morrison",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S03-pere-lachaise.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s03-pere-lachaise.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s03-pere-lachaise.webp",
+        "bytes": 362640,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2168954,
+      "file": "scene 4.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "DJoqu3UOo0hs8wOi",
+          "name": "Scene 4 · Jim’s Apartment",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S04-paris-apartment.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "DJoqu3UOo0hs8wOi",
+          "name": "Scène 4 · L’appartement de Jim",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S04-paris-apartment.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s04-paris-apartment.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s04-paris-apartment.webp",
+        "bytes": 246608,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2012000,
+      "file": "scene 5.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "noVgB9jHfuzgFIOa",
+          "name": "Scene 5 · The Roman Forum",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S05-forum-romanum.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "noVgB9jHfuzgFIOa",
+          "name": "Scène 5 · Le Forum romain",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S05-forum-romanum.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s05-forum-romanum.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s05-forum-romanum.webp",
+        "bytes": 179396,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2334465,
+      "file": "scene 6.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "msySVzRmhErcVdrg",
+          "name": "Scene 6 · The Cistern",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S06-piscina-mirabilis.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "msySVzRmhErcVdrg",
+          "name": "Scène 6 · La citerne",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S06-piscina-mirabilis.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s06-piscina-mirabilis.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s06-piscina-mirabilis.webp",
+        "bytes": 272004,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "bytes": 1906647,
+      "file": "scene 7.png",
+      "category": "scene",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Scene",
+          "id": "cOHjnkTRYO9PD54q",
+          "name": "Scene 7 · St. Peter’s Basilica",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S07-saint-peters-basilica.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        "fr": {
+          "documentType": "Scene",
+          "id": "cOHjnkTRYO9PD54q",
+          "name": "Scène 7 · La basilique Saint-Pierre",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S07-saint-peters-basilica.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      },
+      "status": "identified",
+      "note": "Numérotation concordante et sujet cohérent sur la planche de contrôle ; conserver le cadrage du niveau lors de l’intégration.",
+      "preparedAsset": {
+        "path": "scenes/s07-saint-peters-basilica.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s07-saint-peters-basilica.webp",
+        "bytes": 152658,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1793879,
+      "file": "security agent 2.png",
+      "category": "portrait",
+      "variant": "variante 2",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Security Personnel",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Security Personnel"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Agents de sécurité",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Agents de sécurité"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Même fiche générique ; variante à proposer au MJ. Aucun token placé dans les scènes du compendium pour une attribution individuelle.",
+      "preparedAsset": {
+        "path": "portraits/security-agent-2.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent-2.webp",
+        "bytes": 233600,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1818915,
+      "file": "security agent 3.png",
+      "category": "portrait",
+      "variant": "variante 3",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Security Personnel",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Security Personnel"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Agents de sécurité",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Agents de sécurité"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "Même fiche générique ; variante à proposer au MJ. Aucun token placé dans les scènes du compendium pour une attribution individuelle.",
+      "preparedAsset": {
+        "path": "portraits/security-agent-3.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent-3.webp",
+        "bytes": 257952,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    },
+    {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1606060,
+      "file": "security agent.png",
+      "category": "portrait",
+      "variant": "principale",
+      "targets": {
+        "en": {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Security Personnel",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Security Personnel"
+          }
+        },
+        "fr": {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Agents de sécurité",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Agents de sécurité"
+          }
+        }
+      },
+      "status": "identified",
+      "note": "",
+      "preparedAsset": {
+        "path": "portraits/security-agent.webp",
+        "foundryPath": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent.webp",
+        "bytes": 202798,
+        "quality": 90,
+        "dimensionsPreserved": true,
+        "alphaPreserved": true
+      }
+    }
+  ],
+  "decisions": {
+    "lukas": {
+      "confirmed": true,
+      "sourceFile": "Lukas LeGardie.png",
+      "previousSourceFile": "Peter LeGardie.png"
+    },
+    "realForms": {
+      "confirmed": true,
+      "meaning": "Real Form / forme réelle",
+      "journalLayout": "Apparence humaine et forme réelle côte à côte dans les journaux EN/FR.",
+      "gallery": "Ajout possible, à décider lors de l’intégration."
+    }
+  }
+}

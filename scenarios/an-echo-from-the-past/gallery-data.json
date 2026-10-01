@@ -1,0 +1,510 @@
+[
+  {
+    "_id": "9cf17e9d1fe22309",
+    "name": "Gallery",
+    "pages": [
+      {
+        "_id": "917b043ab865c36c",
+        "name": "Player Characters",
+        "type": "text",
+        "sort": 100000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-pcs\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/johan-barnemark.webp\" alt=\"Johan Barnemark\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Johan Barnemark</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lukas-legardie.webp\" alt=\"Lukas LeGardie\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Lukas LeGardie</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/marcus-fredlid.webp\" alt=\"Marcus Fredlid\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Marcus Fredlid</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/mats-qvarnheden.webp\" alt=\"Mats Qvarnheden\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Mats Qvarnheden</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "d95de508bb1e9803",
+        "name": "PC Relationships",
+        "type": "text",
+        "sort": 200000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-relations\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/anders-holmstrom.webp\" alt=\"Anders Holmström\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Anders Holmström</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/emanuel-zeferarim.webp\" alt=\"Emanuel Zeferarim\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Emanuel Zeferarim</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/eva-dacziewic.webp\" alt=\"Eva Dacziewic\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Eva Dacziewic</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lena-barsk.webp\" alt=\"Lena Barsk\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Lena Barsk</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/leonora-albrektsson.webp\" alt=\"Leonora Albrektsson\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Leonora Albrektsson</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "c47262fdf023c10a",
+        "name": "Dark Messiah Identities",
+        "type": "text",
+        "sort": 300000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-identities\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/michel-agnel.webp\" alt=\"Michel Agnel\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Michel Agnel</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/jim-morrison.webp\" alt=\"Jim Morrison\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Jim Morrison</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/dark-messiah.webp\" alt=\"The Dark Messiah\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">The Dark Messiah</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "18528643be9e44c2",
+        "name": "Padre Louis",
+        "type": "text",
+        "sort": 400000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-padre-louis\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral.webp\" alt=\"Padre Louis — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Padre Louis — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral-rf.webp\" alt=\"Padre Louis — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Padre Louis — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "bcb02c6aab2d1baf",
+        "name": "Fallen Angels",
+        "type": "text",
+        "sort": 500000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-fallen-angels\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels.webp\" alt=\"Fallen Angels 1\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Fallen Angels 1</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels-2.webp\" alt=\"Fallen Angels 2\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Fallen Angels 2</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels-3.webp\" alt=\"Fallen Angels 3\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Fallen Angels 3</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "caaa4a0d2138587c",
+        "name": "Security Personnel",
+        "type": "text",
+        "sort": 600000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-security\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent.webp\" alt=\"Security Personnel 1\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Security Personnel 1</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent-2.webp\" alt=\"Security Personnel 2\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Security Personnel 2</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent-3.webp\" alt=\"Security Personnel 3\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Security Personnel 3</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "56f63edf12d10be4",
+        "name": "Police Officers",
+        "type": "text",
+        "sort": 700000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-police\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer.webp\" alt=\"Police Officers 1\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Police Officers 1</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer-2.webp\" alt=\"Police Officers 2\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Police Officers 2</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer-3.webp\" alt=\"Police Officers 3\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Police Officers 3</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "0b01167c4d02d9b2",
+        "name": "The Pope",
+        "type": "text",
+        "sort": 800000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-pope\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope.webp\" alt=\"The Pope — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">The Pope — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope-rf.webp\" alt=\"The Pope — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">The Pope — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "4914a804d0763911",
+        "name": "The Four Mounts",
+        "type": "text",
+        "sort": 900000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-mounts\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/four-mounts.webp\" alt=\"The Four Mounts\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">The Four Mounts</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "c944630a879d1c17",
+        "name": "Adolfo Montserrat",
+        "type": "text",
+        "sort": 1000000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Adolfo Montserrat\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-adolfo-montserrat.webp\" alt=\"Cardinal Adolfo Montserrat — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Adolfo Montserrat — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-adolfo-montserrat-rf.webp\" alt=\"Cardinal Adolfo Montserrat — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Adolfo Montserrat — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "e40bfecdf6b07c43",
+        "name": "Michail Doprecsi",
+        "type": "text",
+        "sort": 1100000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Michail Doprecsi\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-michail-doprecsi.webp\" alt=\"Cardinal Michail Doprecsi — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Michail Doprecsi — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-michail-doprecsi-rf.webp\" alt=\"Cardinal Michail Doprecsi — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Michail Doprecsi — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "5aebe85b042814be",
+        "name": "Liguro Ezmect",
+        "type": "text",
+        "sort": 1200000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Liguro Ezmect\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-liguro-ezmect.webp\" alt=\"Cardinal Liguro Ezmect — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Liguro Ezmect — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-liguro-ezmect-rf.webp\" alt=\"Cardinal Liguro Ezmect — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Liguro Ezmect — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "1263b58d8cdcbae2",
+        "name": "Rico Armando",
+        "type": "text",
+        "sort": 1300000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Rico Armando\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-rico-armando.webp\" alt=\"Cardinal Rico Armando — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Rico Armando — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-rico-armando-rf.webp\" alt=\"Cardinal Rico Armando — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Rico Armando — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "d70d06d785763855",
+        "name": "Fernando Pizariola",
+        "type": "text",
+        "sort": 1400000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Fernando Pizariola\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-fernando-pizariola.webp\" alt=\"Cardinal Fernando Pizariola — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Fernando Pizariola — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-fernando-pizariola-rf.webp\" alt=\"Cardinal Fernando Pizariola — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Fernando Pizariola — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "e63d3ebaed278baa",
+        "name": "Armando Asapandreous",
+        "type": "text",
+        "sort": 1500000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Armando Asapandreous\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-armando-asapandreous.webp\" alt=\"Cardinal Armando Asapandreous — Human appearance\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Armando Asapandreous — Human appearance</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-armando-asapandreous-rf.webp\" alt=\"Cardinal Armando Asapandreous — Real form\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Armando Asapandreous — Real form</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "384db74d6bc1d6aa",
+        "name": "Fredrico",
+        "type": "text",
+        "sort": 1600000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-fredrico\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fredrico.webp\" alt=\"Fredrico\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Fredrico</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "b250bb1565b9514e",
+        "name": "Scenario Locations",
+        "type": "text",
+        "sort": 1700000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-locations\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s01-stockholm-metro.webp\" alt=\"Scene 1 · Stockholm Subway\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 1 · Stockholm Subway</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s02-stockholm-cathedral.webp\" alt=\"Scene 2 · Stockholm Cathedral\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 2 · Stockholm Cathedral</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s03-pere-lachaise.webp\" alt=\"Scene 3 · Jim Morrison’s Grave\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 3 · Jim Morrison’s Grave</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s04-paris-apartment.webp\" alt=\"Scene 4 · Jim’s Apartment\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 4 · Jim’s Apartment</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s05-forum-romanum.webp\" alt=\"Scene 5 · The Roman Forum\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 5 · The Roman Forum</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s06-piscina-mirabilis.webp\" alt=\"Scene 6 · The Cistern\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 6 · The Cistern</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s07-saint-peters-basilica.webp\" alt=\"Scene 7 · St. Peter’s Basilica\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scene 7 · St. Peter’s Basilica</figcaption></figure></div></div>"
+        }
+      }
+    ],
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "k4lt-assets-ai": {
+        "echoGallery": true,
+        "echoLanguage": "en"
+      }
+    }
+  },
+  {
+    "_id": "075368131aad7da7",
+    "name": "Galerie",
+    "pages": [
+      {
+        "_id": "da24110312386c20",
+        "name": "Personnages joueurs",
+        "type": "text",
+        "sort": 100000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-pcs\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/johan-barnemark.webp\" alt=\"Johan Barnemark\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Johan Barnemark</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lukas-legardie.webp\" alt=\"Lukas LeGardie\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Lukas LeGardie</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/marcus-fredlid.webp\" alt=\"Marcus Fredlid\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Marcus Fredlid</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/mats-qvarnheden.webp\" alt=\"Mats Qvarnheden\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Mats Qvarnheden</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "cc165a8c5761fb2a",
+        "name": "Relations des PJ",
+        "type": "text",
+        "sort": 200000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-relations\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/anders-holmstrom.webp\" alt=\"Anders Holmström\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Anders Holmström</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/emanuel-zeferarim.webp\" alt=\"Emanuel Zeferarim\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Emanuel Zeferarim</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/eva-dacziewic.webp\" alt=\"Eva Dacziewic\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Eva Dacziewic</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lena-barsk.webp\" alt=\"Lena Barsk\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Lena Barsk</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/leonora-albrektsson.webp\" alt=\"Leonora Albrektsson\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Leonora Albrektsson</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "fd2fdae71f33c828",
+        "name": "Identités du Noir Messie",
+        "type": "text",
+        "sort": 300000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-identities\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/michel-agnel.webp\" alt=\"Michel Agnel\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Michel Agnel</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/jim-morrison.webp\" alt=\"Jim Morrison\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Jim Morrison</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/dark-messiah.webp\" alt=\"Le Noir Messie\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Le Noir Messie</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "cce89376ed0d4514",
+        "name": "Père Louis",
+        "type": "text",
+        "sort": 400000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-padre-louis\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral.webp\" alt=\"Père Louis — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Père Louis — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral-rf.webp\" alt=\"Père Louis — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Père Louis — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "896f6fd2d1bf1a69",
+        "name": "Anges déchus",
+        "type": "text",
+        "sort": 500000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-fallen-angels\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels.webp\" alt=\"Anges déchus 1\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Anges déchus 1</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels-2.webp\" alt=\"Anges déchus 2\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Anges déchus 2</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels-3.webp\" alt=\"Anges déchus 3\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Anges déchus 3</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "971b0b2ea19b0df1",
+        "name": "Agents de sécurité",
+        "type": "text",
+        "sort": 600000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-security\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent.webp\" alt=\"Agents de sécurité 1\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Agents de sécurité 1</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent-2.webp\" alt=\"Agents de sécurité 2\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Agents de sécurité 2</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent-3.webp\" alt=\"Agents de sécurité 3\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Agents de sécurité 3</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "c96ac35deb0dfad7",
+        "name": "Policiers",
+        "type": "text",
+        "sort": 700000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-police\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer.webp\" alt=\"Policiers 1\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Policiers 1</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer-2.webp\" alt=\"Policiers 2\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Policiers 2</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer-3.webp\" alt=\"Policiers 3\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Policiers 3</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "4fcde9185876751b",
+        "name": "Le Pape",
+        "type": "text",
+        "sort": 800000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-pope\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope.webp\" alt=\"Le Pape — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Le Pape — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope-rf.webp\" alt=\"Le Pape — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Le Pape — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "d77ba0bc73041eae",
+        "name": "Les quatre montures",
+        "type": "text",
+        "sort": 900000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-mounts\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/four-mounts.webp\" alt=\"Les quatre montures\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Les quatre montures</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "91ff244722516335",
+        "name": "Adolfo Montserrat",
+        "type": "text",
+        "sort": 1000000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Adolfo Montserrat\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-adolfo-montserrat.webp\" alt=\"Cardinal Adolfo Montserrat — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Adolfo Montserrat — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-adolfo-montserrat-rf.webp\" alt=\"Cardinal Adolfo Montserrat — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Adolfo Montserrat — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "4125a43453864a6e",
+        "name": "Michail Doprecsi",
+        "type": "text",
+        "sort": 1100000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Michail Doprecsi\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-michail-doprecsi.webp\" alt=\"Cardinal Michail Doprecsi — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Michail Doprecsi — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-michail-doprecsi-rf.webp\" alt=\"Cardinal Michail Doprecsi — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Michail Doprecsi — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "5e6d31e7b96ef935",
+        "name": "Liguro Ezmect",
+        "type": "text",
+        "sort": 1200000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Liguro Ezmect\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-liguro-ezmect.webp\" alt=\"Cardinal Liguro Ezmect — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Liguro Ezmect — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-liguro-ezmect-rf.webp\" alt=\"Cardinal Liguro Ezmect — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Liguro Ezmect — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "05377281a1943de3",
+        "name": "Rico Armando",
+        "type": "text",
+        "sort": 1300000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Rico Armando\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-rico-armando.webp\" alt=\"Cardinal Rico Armando — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Rico Armando — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-rico-armando-rf.webp\" alt=\"Cardinal Rico Armando — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Rico Armando — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "aaa24b403928a080",
+        "name": "Fernando Pizariola",
+        "type": "text",
+        "sort": 1400000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Fernando Pizariola\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-fernando-pizariola.webp\" alt=\"Cardinal Fernando Pizariola — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Fernando Pizariola — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-fernando-pizariola-rf.webp\" alt=\"Cardinal Fernando Pizariola — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Fernando Pizariola — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "7bfe80e0f26e7287",
+        "name": "Armando Asapandreous",
+        "type": "text",
+        "sort": 1500000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-cardinal-Armando Asapandreous\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-armando-asapandreous.webp\" alt=\"Cardinal Armando Asapandreous — Apparence humaine\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Armando Asapandreous — Apparence humaine</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/cardinal-armando-asapandreous-rf.webp\" alt=\"Cardinal Armando Asapandreous — Forme réelle\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Cardinal Armando Asapandreous — Forme réelle</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "173ed7e172de794c",
+        "name": "Fredrico",
+        "type": "text",
+        "sort": 1600000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-fredrico\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fredrico.webp\" alt=\"Fredrico\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Fredrico</figcaption></figure></div></div>"
+        }
+      },
+      {
+        "_id": "9a76b5582adb08b3",
+        "name": "Lieux du scénario",
+        "type": "text",
+        "sort": 1700000,
+        "title": {
+          "show": true,
+          "level": 1
+        },
+        "text": {
+          "format": 1,
+          "content": "<div data-condition=\"showIfAITrue\" data-ai-scenario=\"an-echo-from-the-past\" data-echo-ai-block=\"gallery-locations\" class=\"conditional hidden\"><div style=\"display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:1rem\"><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s01-stockholm-metro.webp\" alt=\"Scène 1 · Le métro de Stockholm\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 1 · Le métro de Stockholm</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s02-stockholm-cathedral.webp\" alt=\"Scène 2 · La cathédrale de Stockholm\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 2 · La cathédrale de Stockholm</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s03-pere-lachaise.webp\" alt=\"Scène 3 · La tombe de Jim Morrison\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 3 · La tombe de Jim Morrison</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s04-paris-apartment.webp\" alt=\"Scène 4 · L’appartement de Jim\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 4 · L’appartement de Jim</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s05-forum-romanum.webp\" alt=\"Scène 5 · Le Forum romain\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 5 · Le Forum romain</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s06-piscina-mirabilis.webp\" alt=\"Scène 6 · La citerne\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 6 · La citerne</figcaption></figure><figure style=\"flex:1 1 220px;max-width:420px;margin:0;border:none;background:none;box-shadow:none\"><img src=\"modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s07-saint-peters-basilica.webp\" alt=\"Scène 7 · La basilique Saint-Pierre\" style=\"display:block;width:100%;height:auto;border:none;box-shadow:none;background:none\"><figcaption style=\"text-align:center\">Scène 7 · La basilique Saint-Pierre</figcaption></figure></div></div>"
+        }
+      }
+    ],
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "k4lt-assets-ai": {
+        "echoGallery": true,
+        "echoLanguage": "fr"
+      }
+    }
+  }
+]

@@ -1,4 +1,8 @@
 // MadonnaAdditional.js
+
+import { promptAdditionalContent } from "./AdditionalContentDialog.js";
+import { regenerateSceneThumbnails } from "./AdditionalContentHelpers.js";
+import { isEchoJournal } from "./EchoAdditional.js";
 const PATHS = {
     old: "modules/k4lt-the-black-madonna/assets/portraits/",
     new: "modules/k4lt-assets-ai/img/the-black-madonna/portraits/"
@@ -26,45 +30,9 @@ export async function checkForTheBlackMadonnaModule() {
         const useContent = game.settings.get("k4lt-assets-ai", "useMadonnaAdditionalContent");
         return useContent ? applyMadonnaAdditionalContent() : removeMadonnaAdditionalContent();
     }
-    const confirmed = await new Promise((resolve) => {
-        const content = `
-            <p>${game.i18n.localize("k4lt-assets-ai.Dialog.moduleActivatedContent")}</p>
-            <p>${game.i18n.localize("k4lt-assets-ai.Dialog.moduleActivatedQuestion")}</p>
-            <div style="display: flex; align-items: center; justify-content: center; margin-top: 10px;">
-                <label style="display: flex; align-items: center;">
-                    <input type="checkbox" id="dontShowAgain" style="margin-right: 5px;" />
-                    ${game.i18n.localize("k4lt-assets-ai.Dialog.doNotShowAgain")}
-                </label>
-            </div>
-        `;
-        new Dialog({
-            title: game.i18n.localize("k4lt-assets-ai.Dialog.moduleActivatedTitle"),
-            content,
-            buttons: {
-                yes: {
-                    label: game.i18n.localize("Yes"),
-                    callback: (html) => {
-                        if (html.find("#dontShowAgain").is(":checked")) {
-                            game.settings.set("k4lt-assets-ai", "hideAssetsDialog", true);
-                        }
-                        resolve(true);
-                    }
-                },
-                no: {
-                    label: game.i18n.localize("No"),
-                    callback: (html) => {
-                        if (html.find("#dontShowAgain").is(":checked")) {
-                            game.settings.set("k4lt-assets-ai", "hideAssetsDialog", true);
-                        }
-                        resolve(false);
-                    }
-                }
-            },
-            default: "no"
-        }).render(true);
-    });
-    await game.settings.set("k4lt-assets-ai", "useMadonnaAdditionalContent", confirmed);
-    return confirmed ? applyMadonnaAdditionalContent() : removeMadonnaAdditionalContent();
+    return promptAdditionalContent("Madonna", "useMadonnaAdditionalContent", () =>
+    game.settings.get("k4lt-assets-ai", "useMadonnaAdditionalContent")
+      ? applyMadonnaAdditionalContent() : removeMadonnaAdditionalContent());
 }
 function formatFilenameFromName(name) {
     const hasG = /\(g\)$/i.test(name);
@@ -327,6 +295,7 @@ function wait(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 export function handleRenderJournalEntrySheet(app, html, data) {
+  if (isEchoJournal(app.document ?? app.object)) return;
   if (
     !game.modules.get("k4lt-the-black-madonna")?.active ||
     !game.settings.settings.has(
@@ -356,6 +325,7 @@ export function handleRenderJournalEntrySheet(app, html, data) {
     );
     kultLogger(`${conditionalElements.length} 'conditional' element(s) found`);
     conditionalElements.forEach((element, index) => {
+      if (element.dataset.aiScenario === "an-echo-from-the-past") return;
       const conditionKey = element.dataset.condition;
       const shouldShow = conditions[conditionKey];
       kultLogger(
@@ -645,21 +615,4 @@ async function removeAdditionalPlaylists() {
         kultLogger(`${deletedCount} TBM playlists removed.`);
     }
     return deletedCount;
-}
-async function regenerateSceneThumbnails() {
-  kultLogger("Regenerating scene thumbnails...");
-  for (const scene of game.scenes.contents) {
-    try {
-      const thumb = await scene.createThumbnail({
-        img: scene.background.src,
-      });
-      await scene.update({
-        thumb: thumb.thumb,
-      });
-      kultLogger(`Thumbnail regenerated: ${scene.name}`);
-    } catch (err) {
-      kultLogger(`Error regenerating thumbnail for ${scene.name}`, err);
-    }
-  }
-  kultLogger("All scene thumbnails regenerated.");
 }

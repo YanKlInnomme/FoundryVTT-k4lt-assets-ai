@@ -2,11 +2,11 @@
   "id": "k4lt-assets-ai",
   "title": "KULT: Divinity Lost · AI Assets",
   "description": "AI Assets for KULT: Divinity Lost system.",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "14",
-    "verified": "14.364",
+    "verified": "14.368",
     "maximum": "15"
   },
   "authors": [
@@ -19,11 +19,17 @@
   ],
   "relationships": {
     "systems": [
-      {"id": "k4lt"}
+      {
+        "id": "k4lt"
+      }
     ]
   },
-  "esmodules": ["k4lt-assets-ai.js"],
-  "styles": ["k4lt-assets-ai.css"],
+  "esmodules": [
+    "k4lt-assets-ai.js"
+  ],
+  "styles": [
+    "k4lt-assets-ai.css"
+  ],
   "packs": [
     {
       "label": "Additional Journals · GOS",
@@ -52,6 +58,13 @@
       "type": "Scene",
       "system": "k4lt",
       "path": "packs/additional-scenes--tbm"
+    },
+    {
+      "label": "Additional Journals · AEFTP",
+      "name": "additional-journals--aeftp",
+      "type": "JournalEntry",
+      "system": "k4lt",
+      "path": "packs/additional-journals--aeftp"
     }
   ],
   "languages": [
@@ -66,7 +79,7 @@
       "path": "lang/fr.json"
     }
   ],
-    "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets-ai",
-    "manifest": "",
-    "download": ""
+  "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets-ai",
+  "manifest": "",
+  "download": ""
 }

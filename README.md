@@ -75,6 +75,16 @@ https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets-ai/releases/latest/downlo
 
 > **Remarque :** Ce module est conçu pour compléter les modules KULT compatibles et n'a pas vocation à être utilisé seul.
 
+## Version 2.1.0
+ * Ajout d'une option permettant d'activer ou de désactiver les ressources additionnelles générées par IA pour le scénario 'Écho du Passé', comprenant :
+    - 39 portraits afin d'illustrer les personnages joueurs (PJ) et les personnages non joueurs (PNJ), y compris les formes réelles de certains personnages et plusieurs variantes ;
+    - 7 illustrations d'ambiance représentant les principaux lieux du scénario ;
+    - Un journal 'Galerie', disponible en français et en anglais dans un compendium, regroupant l'ensemble de ces illustrations.
+ * Intégration des illustrations dans les journaux du scénario, avec affichage conditionnel selon l'activation de l'option IA ;
+ * Régénération des vignettes des scènes lors de l'activation ou de la désactivation des ressources IA du scénario ;
+ * Harmonisation des dialogues d'activation des contenus IA pour les quatre scénarios ;
+ * Classement des journaux 'Sketches' et 'Immersion Kit' dans les dossiers de leurs scénarios respectifs.
+
 ## Version 2.0.1
  * Correction mineure sur les fichiers de langue pour le français et l'anglais.
 
@@ -160,6 +170,16 @@ https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets-ai/releases/latest/downlo
 4. Enable the module in your world.
 
 > **Note:** This module is intended to complement compatible KULT modules and is not designed to be used on its own.
+
+## Version 2.1.0
+ * Added an option allowing users to enable or disable the AI-generated supplementary resources for 'Echoes of the Past' scenario, including:
+    - 39 portraits illustrating both player characters (PCs) and non-player characters (NPCs), including the real forms of certain characters and several variants;
+    - 7 illustrations depicting key locations within the scenario;
+    - A 'Gallery' journal, available in both French and English within a compendium, compiling all of these illustrations.
+ * Integrated the illustrations into the scenario's journals, with conditional display based on the activation of the AI option;
+ * Regenerated scene thumbnails when enabling or disabling the scenario's AI resources;
+ * Harmonized the activation dialogues for AI content across all four scenarios;
+ * Organized the 'Sketches' and 'Immersion Kit' journals into their respective scenario folders.
 
 ## Version 2.0.1
  * Minor fixes to the language files for French and English.

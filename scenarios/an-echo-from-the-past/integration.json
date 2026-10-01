@@ -1,0 +1,795 @@
+{
+  "actors": [
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/anders-holmstrom.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "fihdK4m72HhTZ9D4",
+          "name": "Anders Holmström",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "J6p1okO8iyBq1eNd"
+        },
+        {
+          "documentType": "Actor",
+          "id": "LvVWUgmk14MaCdBC",
+          "name": "Anders Holmström",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "u8Jg7NjPxF87YwcJ"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/dark-messiah.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "BMc5SuhQGkrgpYKp",
+          "name": "The Dark Messiah",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agneau / Jim Morrison / The Dark Messiah"
+          },
+          "folder": "QxwbMZBhXTmYozDe"
+        },
+        {
+          "documentType": "Actor",
+          "id": "BMc5SuhQGkrgpYKp",
+          "name": "Le Noir Messie",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agnel / Jim Morrison / Le Noir Messie"
+          },
+          "folder": "af843bN60SPfX7gR"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/emanuel-zeferarim.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "Qt4yseOng3PLoaqY",
+          "name": "Emanuel Zeferarim",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "J6p1okO8iyBq1eNd"
+        },
+        {
+          "documentType": "Actor",
+          "id": "OhwIqd1ki7hj6m91",
+          "name": "Emanuel Zeferarim",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "u8Jg7NjPxF87YwcJ"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/eva-dacziewic.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "MNtnupBRJKnmfljq",
+          "name": "Eva Dacziewic",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "J6p1okO8iyBq1eNd"
+        },
+        {
+          "documentType": "Actor",
+          "id": "t24OC19ubncQ4Wmk",
+          "name": "Eva Dacziewic",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "u8Jg7NjPxF87YwcJ"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/fallen-angels.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Fallen Angels",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Fallen Angels"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        },
+        {
+          "documentType": "Actor",
+          "id": "g3vXKPnqabb5RldH",
+          "name": "Anges déchus",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/fallen-angel-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "CPobXXXQyk8iYiLn",
+            "pageName": "Anges déchus"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/four-mounts.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "oFzzQ0niZ5NpUFM1",
+          "name": "The Four Mounts",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "epCJJm4NJdGeQiZt",
+            "pageName": "The Four Mounts"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        },
+        {
+          "documentType": "Actor",
+          "id": "oFzzQ0niZ5NpUFM1",
+          "name": "Les quatre montures",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "epCJJm4NJdGeQiZt",
+            "pageName": "Les quatre montures"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/jim-morrison.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "wPjtg2UDP6YMsHJb",
+          "name": "Jim Morrison",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agneau / Jim Morrison / The Dark Messiah"
+          },
+          "folder": "QxwbMZBhXTmYozDe"
+        },
+        {
+          "documentType": "Actor",
+          "id": "BOYyyegxsd0CTJKT",
+          "name": "Jim Morrison",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agnel / Jim Morrison / Le Noir Messie"
+          },
+          "folder": "af843bN60SPfX7gR"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/johan-barnemark.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "S4eHRz1n6WcxBVBu",
+          "name": "Johan Barnemark",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        },
+        {
+          "documentType": "Actor",
+          "id": "S4eHRz1n6WcxBVBu",
+          "name": "Johan Barnemark",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lena-barsk.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "Ve6ZW7AfmsZBGGrD",
+          "name": "Lena Barsk",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "J6p1okO8iyBq1eNd"
+        },
+        {
+          "documentType": "Actor",
+          "id": "388Bw0tOmaghdk3Z",
+          "name": "Lena Barsk",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "u8Jg7NjPxF87YwcJ"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/leonora-albrektsson.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "yCaBsZVCWjapyKvM",
+          "name": "Leonora Albrektsson",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "J6p1okO8iyBq1eNd"
+        },
+        {
+          "documentType": "Actor",
+          "id": "wkfFyGmkbT5Vf2qD",
+          "name": "Leonora Albrektsson",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "u8Jg7NjPxF87YwcJ"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/lukas-legardie.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "L3JfsmKVyreeaDKr",
+          "name": "Lukas LeGardie",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        },
+        {
+          "documentType": "Actor",
+          "id": "L3JfsmKVyreeaDKr",
+          "name": "Lukas LeGardie",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/marcus-fredlid.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "DHW5oi0V9jb0xWFJ",
+          "name": "Marcus Fredlid",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        },
+        {
+          "documentType": "Actor",
+          "id": "DHW5oi0V9jb0xWFJ",
+          "name": "Marcus Fredlid",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/mats-qvarnheden.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "0gN1iDbv6UoomCUx",
+          "name": "Mats Qvarnheden",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        },
+        {
+          "documentType": "Actor",
+          "id": "0gN1iDbv6UoomCUx",
+          "name": "Mats Qvarnheden",
+          "type": "pc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "folder": "uuWV0Zmyw0C7QD8m"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/michel-agnel.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "KRvui1Hxdj6jd6Oj",
+          "name": "Michel Agnel",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agneau / Jim Morrison / The Dark Messiah"
+          },
+          "folder": "QxwbMZBhXTmYozDe"
+        },
+        {
+          "documentType": "Actor",
+          "id": "QvhN51zXYa8er0wC",
+          "name": "Michel Agnel",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/michel-agnel-jim-morrison-1970.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/jim-morrison-1969.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "Q72yQUNWhh4Z66VD",
+            "pageName": "Michel Agnel / Jim Morrison / Le Noir Messie"
+          },
+          "folder": "af843bN60SPfX7gR"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/padre-louis-chavaral.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "fpV29POTkxMN19SI",
+          "name": "Padre Louis",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MLSONTUkA6SdWm0c",
+            "pageName": "Padre Louis"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        },
+        {
+          "documentType": "Actor",
+          "id": "fpV29POTkxMN19SI",
+          "name": "Père Louis",
+          "type": "npc",
+          "currentPortrait": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "currentPrototypeToken": "modules/k4lt-assets/scenarios/an-echo-from-the-past/portraits/padre-louis-transparent.webp",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MLSONTUkA6SdWm0c",
+            "pageName": "Père Louis"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/police-officer.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Police Officers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Police Officers"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        },
+        {
+          "documentType": "Actor",
+          "id": "tgGVDijZGUiHSmli",
+          "name": "Policiers",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "j7ulgZcWvtLsMfrX",
+            "pageName": "Policiers"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/pope.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "DCb1augIfxz8s0BN",
+          "name": "The Pope",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "py6zfaw5AKOcSH9F",
+            "pageName": "The Pope"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        },
+        {
+          "documentType": "Actor",
+          "id": "DCb1augIfxz8s0BN",
+          "name": "Le Pape",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "py6zfaw5AKOcSH9F",
+            "pageName": "Le Pape"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/portraits/security-agent.webp",
+      "targets": [
+        {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Security Personnel",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Non-Player Characters",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Security Personnel"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        },
+        {
+          "documentType": "Actor",
+          "id": "1GACgBLAWpxu3RsD",
+          "name": "Agents de sécurité",
+          "type": "npc",
+          "currentPortrait": "icons/svg/mystery-man.svg",
+          "currentPrototypeToken": "icons/svg/mystery-man.svg",
+          "journalPage": {
+            "journalId": "wrWE7bBDgqBMhfBZ",
+            "journalName": "Personnages Non Joueurs",
+            "pageId": "MYPB8RroKmMT3tFS",
+            "pageName": "Agents de sécurité"
+          },
+          "folder": "ZYwWKuY6fWtCiG1H"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s01-stockholm-metro.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "4JFvtkKVHQgq9s0r",
+          "name": "Scene 1 · Stockholm Subway",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S01-stockholm-metro.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "4JFvtkKVHQgq9s0r",
+          "name": "Scène 1 · Le métro de Stockholm",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S01-stockholm-metro.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s02-stockholm-cathedral.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "z7FkO4jMyPdiFsKc",
+          "name": "Scene 2 · Stockholm Cathedral",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S02-stockholm-cathedral.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "z7FkO4jMyPdiFsKc",
+          "name": "Scène 2 · La cathédrale de Stockholm",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S02-stockholm-cathedral.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s03-pere-lachaise.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "o7X01IaRYwqWHPWa",
+          "name": "Scene 3 · Jim Morrison’s Grave",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S03-pere-lachaise.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "o7X01IaRYwqWHPWa",
+          "name": "Scène 3 · La tombe de Jim Morrison",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S03-pere-lachaise.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s04-paris-apartment.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "DJoqu3UOo0hs8wOi",
+          "name": "Scene 4 · Jim’s Apartment",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S04-paris-apartment.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "DJoqu3UOo0hs8wOi",
+          "name": "Scène 4 · L’appartement de Jim",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S04-paris-apartment.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s05-forum-romanum.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "noVgB9jHfuzgFIOa",
+          "name": "Scene 5 · The Roman Forum",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S05-forum-romanum.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "noVgB9jHfuzgFIOa",
+          "name": "Scène 5 · Le Forum romain",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S05-forum-romanum.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s06-piscina-mirabilis.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "msySVzRmhErcVdrg",
+          "name": "Scene 6 · The Cistern",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S06-piscina-mirabilis.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "msySVzRmhErcVdrg",
+          "name": "Scène 6 · La citerne",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S06-piscina-mirabilis.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    },
+    {
+      "image": "modules/k4lt-assets-ai/scenarios/an-echo-from-the-past/scenes/s07-saint-peters-basilica.webp",
+      "targets": [
+        {
+          "documentType": "Scene",
+          "id": "cOHjnkTRYO9PD54q",
+          "name": "Scene 7 · St. Peter’s Basilica",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S07-saint-peters-basilica.webp"
+            }
+          ],
+          "tokenCount": 0
+        },
+        {
+          "documentType": "Scene",
+          "id": "cOHjnkTRYO9PD54q",
+          "name": "Scène 7 · La basilique Saint-Pierre",
+          "field": "levels[].background.src",
+          "levels": [
+            {
+              "id": "defaultLevel0000",
+              "currentImage": "modules/k4lt-assets/scenarios/an-echo-from-the-past/scenes/S07-saint-peters-basilica.webp"
+            }
+          ],
+          "tokenCount": 0
+        }
+      ]
+    }
+  ],
+  "journals": [
+    {
+      "id": "OZNDSZzcO31gVrKl",
+      "name": "Player Characters & Handouts"
+    },
+    {
+      "id": "UyfDK68W9EAIjzIi",
+      "name": "Memos"
+    },
+    {
+      "id": "hRAYBLG4JlQY7koo",
+      "name": "Credits & Source"
+    },
+    {
+      "id": "upwo7BTNNklNx7lT",
+      "name": "Scenario"
+    },
+    {
+      "id": "wrWE7bBDgqBMhfBZ",
+      "name": "Non-Player Characters"
+    },
+    {
+      "id": "OZNDSZzcO31gVrKl",
+      "name": "Personnages Joueurs & Aides de jeu"
+    },
+    {
+      "id": "UyfDK68W9EAIjzIi",
+      "name": "Mémos"
+    },
+    {
+      "id": "hRAYBLG4JlQY7koo",
+      "name": "Crédits & Source"
+    },
+    {
+      "id": "upwo7BTNNklNx7lT",
+      "name": "Scénario"
+    },
+    {
+      "id": "wrWE7bBDgqBMhfBZ",
+      "name": "Personnages Non Joueurs"
+    }
+  ],
+  "folderNames": [
+    "An Echo From the Past",
+    "Écho du Passé"
+  ],
+  "adventureIds": [
+    "WBvEoswkh5PscCHS",
+    "uYX4vmSNkiR8lccN"
+  ]
+}

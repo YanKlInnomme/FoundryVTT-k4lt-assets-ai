@@ -1,4 +1,21 @@
 // settings.js
+
+let settingsReloadSuspended = false;
+
+// Complete dialog choices without interrupting document updates.
+export async function saveAdditionalContentChoice(setting, choice, updateContent) {
+  const previous = settingsReloadSuspended;
+  settingsReloadSuspended = true;
+  try {
+    if (game.settings.get("k4lt-assets-ai", setting) !== choice.value) {
+      await game.settings.set("k4lt-assets-ai", setting, choice.value);
+    }
+    if (choice.hide) await game.settings.set("k4lt-assets-ai", "hideAssetsDialog", true);
+    return await updateContent();
+  }
+  finally { settingsReloadSuspended = previous; }
+}
+
 function registerToggleSetting(key, { nameKey, hintKey, logLabel }) {
   game.settings.register("k4lt-assets-ai", key, {
     name: game.i18n.localize(nameKey),
@@ -9,6 +26,7 @@ function registerToggleSetting(key, { nameKey, hintKey, logLabel }) {
     default: false,
     onChange: value => {
       kultLogger(`${logLabel} is now: ${value}`);
+      if (settingsReloadSuspended) return;
       window.location.reload();
     },
   });
@@ -46,6 +64,14 @@ export function registerSettings() {
       logLabel: "The answer to additional content for Oakwood Heights",
     });
   }
+  /* ---- AN ECHO FROM THE PAST ---- */
+  if (isScenarioModuleEnabled) {
+  registerToggleSetting("useEchoAdditionalContent", {
+    nameKey: "k4lt-assets-ai.Echo.Settings.useAdditionalContentName",
+    hintKey: "k4lt-assets-ai.Echo.Settings.useAdditionalContentHint",
+    logLabel: "Additional content for An Echo From the Past",
+  });
+  }
 }
 export function addAIGeneratedNotice(app, html, data) {
   const targetInput = html.querySelector('[name="k4lt-assets-ai.hideAssetsDialog"]');
@@ -60,6 +86,7 @@ export function addAIGeneratedNotice(app, html, data) {
     "useMadonnaAdditionalContent",
     "useGalleryAdditionalContent",
     "useOakwoodAdditionalContent",
+    "useEchoAdditionalContent",
   ]) {
     html.querySelector(`[name="k4lt-assets-ai.${key}"]`)
       ?.closest(".form-group")

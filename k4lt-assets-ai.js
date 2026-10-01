@@ -1,20 +1,28 @@
 // k4lt-assets-ai.js
+
 import { registerSettings } from "./modules/settings.js";
 import { addAIGeneratedNotice } from "./modules/settings.js";
 import { checkForTheBlackMadonnaModule } from "./modules/MadonnaAdditional.js";
 import { handleRenderJournalEntrySheet } from "./modules/MadonnaAdditional.js";
 import { checkForGalleryOfSoulsModule } from "./modules/GalleryAdditional.js";
 import { checkForOakwoodHeightsModule } from "./modules/OakwoodAdditional.js";
+import { checkForAnEchoFromThePastModule, updateEchoAdditionalContent, handleEchoJournalRender } from "./modules/EchoAdditional.js";
 
+Hooks.once("init", registerSettings);
 Hooks.once("ready", () => {
   kultLogger("Initializing k4lt-assets-ai module");
-  registerSettings();
   checkForTheBlackMadonnaModule();
   checkForGalleryOfSoulsModule();
   checkForOakwoodHeightsModule();
+  checkForAnEchoFromThePastModule().catch(error => console.error("K4LT Assets AI | Echo initialization failed", error));
 });
+Hooks.on("importAdventure", adventure => {
+  if (["An Echo From the Past", "Écho du Passé"].includes(adventure.name)) updateEchoAdditionalContent();
+});
+Hooks.on("createToken", () => updateEchoAdditionalContent());
 /* ---- COMPENDIUMS TO HIDE ---- */
 const COMPENDIUMS_TO_HIDE = [
+  "k4lt-assets-ai.additional-journals--aeftp",
   "k4lt-assets-ai.additional-scenes--tbm",
   "k4lt-assets-ai.additional-playlists--tbm",
   "k4lt-assets-ai.additional-journals--gos",
@@ -35,6 +43,8 @@ Hooks.on("renderCompendiumDirectory", (app, html) => {
 // Existing hooks (keep according to your needs)
 Hooks.on("renderSettingsConfig", addAIGeneratedNotice);
 Hooks.on("renderJournalEntrySheet", handleRenderJournalEntrySheet);
+Hooks.on("renderJournalEntrySheet", handleEchoJournalRender);
+Hooks.on("renderJournalEntryPageSheet", handleEchoJournalRender);
 function getCurrentModuleId() {
   const path = import.meta.url;
   const match = path.match(/modules\/([^/]+)\//);
